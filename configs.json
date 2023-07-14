@@ -1,0 +1,13 @@
+{
+    "queues" : [
+        {
+           "name" : "test-queue",
+           "handler" : "test1"
+        },
+        
+        {
+            "name" : "test-queue2",
+            "handler" : "test2"
+         }
+    ]
+}
